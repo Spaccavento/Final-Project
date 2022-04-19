@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Giovanni Spaccavento and Raj Patel
 
 #### Your section leader's name
 
-TODO
+Hongzheng Wang
 
 #### Project title
 
-TODO
+FPS Aim Trainer
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+We were able to get the basis of the aim trainer to function.
 
 #### What have you not done for your project yet?
 
-TODO
+We want to have a pop up for instructions when the game initalizes and a score counter.
 
 #### What problems, if any, have you encountered?
 
-TODO
+Being able to click the circle was difficult and also getting it then to go to another position.
