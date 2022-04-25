@@ -23,5 +23,5 @@ MUST INSTALL THE PYGAME LIBRARY (mac): https://www.geeksforgeeks.org/install-pyg
 
 
 #DONE BY
-Giovanni Spaccavento
+Giovanni Spaccavento &
 Raj Patel
