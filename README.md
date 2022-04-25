@@ -1,7 +1,7 @@
 # Final-Project README
 #LINK TO VIDEO OVERVIEW Giovanni: 
 https://www.youtube.com/watch?v=DGrYl29MmUI
-
+https://youtu.be/TO5bOYvT30Q
 
 #Aim Trainer:
 
